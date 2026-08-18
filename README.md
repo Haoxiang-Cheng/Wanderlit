@@ -2,6 +2,8 @@
 
 一个面向中国境内旅行的路线灵感与足迹记录网站。公开测试版支持：
 
+在线体验：[wanderlit-china.nutmeg-peach-4267.chatgpt.site](https://wanderlit-china.nutmeg-peach-4267.chatgpt.site)
+
 - 在演示地图上点亮县级足迹，并保存在当前浏览器
 - 按出发县区、预算、日期、人数、偏好和交通方式生成 K 条路线
 - 查看每日行程、预算拆分和地图线路
